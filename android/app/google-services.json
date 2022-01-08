@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918200769528",
+    "project_id": "unit-eb393",
+    "storage_bucket": "unit-eb393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918200769528:android:483f5257942837e316540d",
+        "android_client_info": {
+          "package_name": "com.unitrealestate.unit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918200769528-1irto7doflsglc9euc3grbvqrfa5sidr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ok-0vfCGOn7KEKpQe3OM6S1fDxkkE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918200769528-1irto7doflsglc9euc3grbvqrfa5sidr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
